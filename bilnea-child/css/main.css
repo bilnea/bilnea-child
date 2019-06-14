@@ -1,0 +1,15 @@
+@charset 'UTF-8';
+
+/*
+ Theme Name:   ASDF
+ Theme URI:    ASDF
+ Description:  Tema personalizado para ASDF
+ Author:       bilnea
+ Author URI:   https://bilnea.com
+ Template:     ASDFTheme
+ Version:      2.0
+ Text Domain:  ASDF
+*/
+
+@import url("../../bilnea/style.css");
+
